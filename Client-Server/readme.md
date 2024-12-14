@@ -3,7 +3,7 @@
 Este projeto implementa a arquitetura cliente-servidor (**Client-Server**) em TypeScript. Ele consiste em um servidor que fornece uma API e um cliente que consome os dados dessa API.
 
 ## Estrutura do Projeto
-
+```plaintext
 client-server-project/
 ├── src/
 │   ├── server.ts          # Servidor
@@ -11,7 +11,7 @@ client-server-project/
 ├── package.json
 ├── tsconfig.json
 └── README.md
-
+```
 ## Como Rodar
 ```bash
 1. Certifique-se de que as dependências estejam instaladas:
