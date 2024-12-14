@@ -3,7 +3,7 @@
 Este projeto implementa a arquitetura **Model-View-Controller (MVC)** em TypeScript, demonstrando a separação de responsabilidades entre modelo, controlador e visualização.
 
 ## Estrutura do Projeto
-
+```plaintext
 mvc-project/
 ├── src/
 │   ├── models/
@@ -17,7 +17,7 @@ mvc-project/
 ├── package.json
 ├── tsconfig.json
 └── README.md
-
+```
 ## Como Rodar
 ```bash
 1. Certifique-se de que as dependências estejam instaladas:
