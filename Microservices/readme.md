@@ -3,7 +3,7 @@
 Este projeto implementa uma arquitetura baseada em **Microsserviços**, onde diferentes serviços independentes (User Service, Product Service e Gateway Service) comunicam-se via HTTP. Cada serviço é executado separadamente.
 
 ## Estrutura do Projeto
-
+```plaintext
 microservices-project/
 ├── services/
 │   ├── user/
@@ -25,7 +25,7 @@ microservices-project/
 │       ├── package.json
 │       └── tsconfig.json
 ├── README.md
-
+```
 ## Como Rodar
 
 1. **User Service**:
